@@ -1,6 +1,5 @@
 
 import requests
-from requests_html import HTML
 from bs4 import *
 import time
 
